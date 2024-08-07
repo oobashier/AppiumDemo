@@ -1,0 +1,17 @@
+{
+  "credentials": {
+    "validUserName": "standard_user",
+    "inValidUserName": "haidy",
+    "validPassword": "secret_sauce",
+    "inValidPassword": "123345"
+  },
+  "messages": {
+    "errorLoginMessage": "Username and password do not match any user in this service.",
+    "successPurchaseMessage": "THANK YOU FOR YOU ORDER"
+  },
+  "checkOutInformation": {
+    "firstName": "haidy",
+    "lastName": "osama",
+    "postalCode": "12345"
+  }
+}
